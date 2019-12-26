@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44207" started-at="2019-12-22T21:04:58Z" finished-at="2019-12-22T21:05:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44207" started-at="2019-12-22T21:04:58Z" finished-at="2019-12-22T21:05:42Z">
+      <class name="MobilePlaygroud.GestureTest">
+        <test-method status="PASS" signature="general_dynamin_selection_test()[pri:4, instance:MobilePlaygroud.GestureTest@1ce92674]" name="general_dynamin_selection_test" duration-ms="44184" started-at="2019-12-22T21:04:58Z" finished-at="2019-12-22T21:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- general_dynamin_selection_test -->
+      </class> <!-- MobilePlaygroud.GestureTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
