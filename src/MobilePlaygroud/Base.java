@@ -27,7 +27,7 @@ public class Base {
 					//mycap.setCapability(MobileCapabilityType.DEVICE_NAME, "Pixel3");
 					mycap.setCapability(MobileCapabilityType.DEVICE_NAME, "Pixel2oreo");
 					//mycap.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomatior2");
-					mycap.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 5);
+					mycap.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 14);
 					mycap.setCapability(MobileCapabilityType.APP, file_source.getAbsolutePath());
 					
 			//initialize driver 
