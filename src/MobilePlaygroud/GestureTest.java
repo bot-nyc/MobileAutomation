@@ -312,5 +312,9 @@ public class GestureTest extends Base{
 	return amount2value;
 	}
 	
+	@Test(priority=7,enabled=false)
+	public void nativeapptest() {
+		
+	}
 
 }
